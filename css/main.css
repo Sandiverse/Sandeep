@@ -463,7 +463,7 @@ ul {
 
 .photoprofile .general {
     padding: 6px 8px;
-    margin: 8px auto;
+    margin: 0px auto;
     border-bottom: 2px solid #757575;
 }
 
@@ -630,6 +630,16 @@ ul {
 
 .sel {
     color: #000;
+}
+
+.condetails {
+    color: #232323;
+    margin: 30px auto;
+}
+
+.condetails i {
+    color: #00b16a;
+    margin-right: 20px;
 }
 
 @media screen and (min-width: 320px) and (max-width: 1024px) {
