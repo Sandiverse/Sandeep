@@ -1,5 +1,8 @@
 .filtr-item {
     padding: 1rem;
+    max-height: 300px;
+    width: 200px;
+    overflow: hidden;
 }
 .item-desc {
     background-color: rgba(0,0,0,0.5);
